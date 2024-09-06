@@ -16,6 +16,8 @@ public class StringProgram {
 		}
 		System.out.println(sb.toString());
 		System.out.println(new StringProgram().vowelCount(str));
+		
+		
 		char[] replaceWithSpaceIfRepetdmmoreThenThree = new StringProgram().replaceWithSpaceIfRepetdmmoreThenThree(str);
 		StringBuilder sb2 = new StringBuilder();
 		for (char c : replaceWithSpaceIfRepetdmmoreThenThree) {
