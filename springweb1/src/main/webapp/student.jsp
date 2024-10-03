@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>hgdf</h1>
+<h1>Student Page</h1>
 </body>
 </html>
